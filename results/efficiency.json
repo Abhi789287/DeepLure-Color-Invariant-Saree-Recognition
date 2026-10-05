@@ -1,0 +1,14 @@
+{
+  "parameters": 11570496,
+  "embedding_dim": 256,
+  "input_size": [
+    1,
+    3,
+    224,
+    224
+  ],
+  "device_for_latency": "cpu",
+  "latency_ms_per_image": 44.43756399999984,
+  "profiler_estimated_flops_per_image": 3627909120,
+  "note": "FLOPs are profiler estimates for supported operators; latency is measured empirically."
+}
